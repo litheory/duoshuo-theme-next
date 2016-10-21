@@ -10,7 +10,7 @@
   ​      		   ![img](imgs/2.png)
 
 
-- 实用效果查看：[我的博客](http://lnaif.github.io/2016/10/21/duoshuo-theme-next/#more)
+- 实用效果查看：[乃逸夫的博客](http://lnaif.github.io/2016/duoshuo-theme-next/#more)
 
 ## 用法
 
