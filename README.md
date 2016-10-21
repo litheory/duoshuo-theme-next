@@ -6,12 +6,15 @@
 
 ## 效果预览
 
-- 
-- 实用效果查看：[我的博客](http://lnaif.github.io/2016/duoshuo-theme-next/#more)
+- ![img](imgs/1.png)
+  ​      		   ![img](imgs/2.png)
+
+
+- 实用效果查看：[我的博客](http://lnaif.github.io/2016/10/21/duoshuo-theme-next/#more)
 
 ## 用法
 
-- 下载上面的`duoshuo.styl`, 在hexo主题文件夹中 `\next\source\css\_common\components\third-party`,找到`duoshuo.styl`文件，这个就是控制**多说评论版块样式**的css文件，直接替换。
+- `\next\source\css\_common\components\third-party`,找到`duoshuo.styl`文件，这个就是控制**多说评论版块样式**的css文件，可以直接替换。
 - 或者直接在**多说官网**的开发者中心中添加**css**，但并不推荐这种方式，因为在多说官网上修改的css很容易被本地的`.styl`覆盖。
 
 ## 许可
