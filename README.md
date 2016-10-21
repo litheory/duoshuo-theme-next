@@ -6,9 +6,7 @@
 
 ## 效果预览
 
-- ![img](http://image.baidu.com/detail/newindex?col=&tag=&pn=1&pid=38140194883&aid=412887384&user_id=1744078516&setid=-1&sort=0&newsPn=&star=&fr=&from=2)
-  ![img](http://image.baidu.com/detail/newindex?col=&tag=&pn=0&pid=38140186830&aid=412887384&user_id=1744078516&setid=-1&sort=0&newsPn=&star=&fr=&from=2)
-
+- 
 - 实用效果查看：[我的博客](http://lnaif.github.io/2016/duoshuo-theme-next/#more)
 
 ## 用法
