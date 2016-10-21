@@ -2,10 +2,12 @@
 
 与Hexo的NexT主题契合的多说css样式，扁平化，简洁
 
+用过的大佬们给个星星吼不吼哇ヽ(•̀ω•́ )ゝ
+
 ## 效果预览
 
-- ![QQimg20161021172529.png](https://github.com/lnaif/lnaif.github.io/blob/master/uploads/QQimg20161021172529.png?raw=true)     
-
+- ![img](http://image.baidu.com/detail/newindex?col=&tag=&pn=1&pid=38140194883&aid=412887384&user_id=1744078516&setid=-1&sort=0&newsPn=&star=&fr=&from=2)
+  ![img](http://image.baidu.com/detail/newindex?col=&tag=&pn=0&pid=38140186830&aid=412887384&user_id=1744078516&setid=-1&sort=0&newsPn=&star=&fr=&from=2)
 
 - 实用效果查看：[我的博客](http://lnaif.github.io/2016/duoshuo-theme-next/#more)
 
