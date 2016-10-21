@@ -4,8 +4,7 @@
 
 ## 效果预览
 
-- ![QQimg20161021172529.png](https://github.com/lnaif/lnaif.github.io/blob/master/uploads/QQimg20161021172529.png?raw=true)
-  ​      
+- ![QQimg20161021172529.png](https://github.com/lnaif/lnaif.github.io/blob/master/uploads/QQimg20161021172529.png?raw=true)     
 
 
 - 实用效果查看：[我的博客](http://lnaif.github.io/2016/10/21/duoshuo-theme-next/#more)
